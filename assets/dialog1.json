@@ -1,0 +1,19 @@
+[
+	[
+		{
+			"speaker" : "",
+			"dialog" : "Our protagonist Bugson lives in a quite and beautiful village.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "",
+			"dialog" : "Although it is a small town, people who live out there are very happy and carefree."
+		}
+	],
+	[
+		{
+			"speaker" : "",
+			"dialog" : "However, the good times does not last long."
+		}
+	]
+]

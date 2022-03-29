@@ -1,0 +1,36 @@
+[
+	[
+		{
+			"speaker" : "Bugson",
+			"dialog" : "Who are you?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Stereary",
+			"dialog" : "Great question, you fool. I am the Darkness.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Bugson",
+			"dialog" : "What did you do to them?"
+		},
+		{	
+			"speaker" : "Stereary",
+			"dialog" : "Mwahahaha, all the villagers were cursed by my darkness power and will soon be died."
+		},
+		{	
+			"speaker" : "Bugson",
+			"dialog" : "(...) Why would you do that?!"
+		}
+	],
+	[
+		{
+			"speaker" : "Stereary",
+			"dialog" : "I won't explain that to you. If you want to save them, come meet me at the top of the Tower of Darkness. If you can beat me, I will award you the Almighty Potion."
+		},
+		{	
+			"speaker" : "Stereary",
+			"dialog" : "Damn, I gotta hurry up."
+		}
+	]
+]

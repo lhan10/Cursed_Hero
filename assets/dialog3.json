@@ -1,0 +1,14 @@
+[
+	[
+		{
+			"speaker" : "Villagers",
+			"dialog" : "Thank you for saving us, Bugson. You are our hero!",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "Bugson",
+			"dialog" : "It's my pleasure.",
+			"newSpeaker" : "true"
+		}
+	]
+]
